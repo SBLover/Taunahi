@@ -1,5 +1,7 @@
 # Taunahi - Next Generation Skyblock Scripts
 
+# [CLICK HERE TO DOWNLOAD](https://github.com/SBLover/Taunahi/releases/download/v3.4.1/Taunahi-3.4.1.jar)
+
 **Stop overpaying for bad scripts - get Taunahi.**
 ## GUI Showcase
 ![](https://cdn.discordapp.com/attachments/980212612153368607/1201110819115630652/ezgif-1-9fb60872ea.gif?ex=65c8a09e&is=65b62b9e&hm=f6906b2099dd30c8f31aa96b5b916ebd32c5fe4b3dee88135de46bc90d68f30a&)
